@@ -17,4 +17,20 @@ The Evolution kernel has support for cheats, but doesn't come with any cheats in
 
 ## EOS Options (Home Menu)
 
-![](https://raw.githubusercontent.com/Sanrax/DSOneManual/main/Pictures/DSOne-SD-Speed.jpg)
+### SD Speed
+
+<img style="float: left; margin-right: 30px;" src="https://raw.githubusercontent.com/Sanrax/DSOneManual/main/Pictures/DSOne-SD-Speed.jpg" width="260px">
+
+Sets the speed of the SD card. It is recommended to use a value above 3x on modern cards to avoid issues with running games, as the 3x value can cause problems according to the Supercard FAQ:
+
+> "Some games need a high speed flash memory card, such as "Castlevania PoR", this game need a high speed memory card and Speed need to be set to 4X."
+
+If you experience a white screen after increasing the SD speed, that means your card is too slow for that speed. Decrease the sd speed setting step-by-step until games load.
+
+### Run Mode
+
+<img style="float: left; margin-right: 30px;" src="https://raw.githubusercontent.com/Sanrax/DSOneManual/main/Pictures/DSOne-Patch.jpg" width="260px">
+
+Switch between applying patches for games when running them or run them as is.
+
+This setting should be left on patch to avoid issues with anti-piracy measures and games not booting.
