@@ -45,10 +45,10 @@ Fairly self-explanatory, this option changes the language of the menu.
 
 <img style="left" src="https://raw.githubusercontent.com/Sanrax/DSOneManual/main/Pictures/DSOne-Brightness.jpg" width="260px">
 
-This option changes the screen brightness of the DS. However, it only applies to the DS Lite and OG DS. It does nothing on DSi and 3DS.
+Changes the screen brightness level of the DS. However, it only applies to the DS Lite and OG DS. It does nothing on DSi and 3DS.
 
 ### Multi-Saver
 
 <img style="left" src="https://raw.githubusercontent.com/Sanrax/DSOneManual/main/Pictures/DSOne-Saves.jpg" width="260px">
 
-This is for swapping save slots using the DSOne's multi-save-slot ability. It allows you to have 4 separate save files per game. The default save slot is #0. #1 - #3 are the extra slots if you'd like to have more than one save. Just switch to that slot and run the game to use that save file.
+This is for swapping save slots using the DSOne's multi-save ability. It allows you to have 4 separate save files per game. The default save slot is #0. #1 - #3 are the extra slots if you'd like to have more than one save. Just switch to that slot and run the game to use the associated save file.
