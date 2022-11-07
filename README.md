@@ -19,7 +19,7 @@ The Evolution kernel has support for cheats, but doesn't come with any cheats in
 
 ### SD Speed
 
-<img style="float: left; margin-right: 30px;" src="https://raw.githubusercontent.com/Sanrax/DSOneManual/main/Pictures/DSOne-SD-Speed.jpg" width="260px">
+<img style="left" src="https://raw.githubusercontent.com/Sanrax/DSOneManual/main/Pictures/DSOne-SD-Speed.jpg" width="260px">
 
 Sets the speed of the SD card. It is recommended to use a value above 3x on modern cards to avoid issues with running games, as the 3x value can cause problems according to the Supercard FAQ:
 
