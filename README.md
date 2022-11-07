@@ -52,3 +52,15 @@ Changes the screen brightness level of the DS. However, it only applies to the D
 <img style="left" src="https://raw.githubusercontent.com/Sanrax/DSOneManual/main/Pictures/DSOne-Saves.jpg" width="260px">
 
 This is for swapping save slots using the DSOne's multi-save ability. It allows you to have 4 separate save files per game. The default save slot is #0. #1 - #3 are the extra slots if you'd like to have more than one save. Just switch to that slot and run the game to use the associated save file.
+
+### Theme
+
+<img style="left" src="https://raw.githubusercontent.com/Sanrax/DSOneManual/main/Pictures/DSOne-Skins.jpg" width="260px">
+
+Changes the menu theme. If you found a theme you want to add, you can put it on the sd card and select it from this menu.
+
+### Hotkeys
+
+<img style="left" src="https://raw.githubusercontent.com/Sanrax/DSOneManual/main/Pictures/DSOne-Hotkeys.jpg" width="260px">
+
+Settings for the in-game menu button combo. The buttons that are checked in this menu all need to be pressed simultaneously while running a game to bring up the menu. You can configure what button combo you'd like to use by toggling the checkmarks next to each button. Hit A to save, B to cancel changes.
