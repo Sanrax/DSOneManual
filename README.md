@@ -106,3 +106,11 @@ LCD brightness, just like the home menu option, changes the screen brightness on
 The in-game option also allows you to toggle on/off your cheats while playing the game. You do not need to exit to the EOS home menu to toggle this option, but will need to if you want to change what cheats are enabled.
 
 The last option is of course the soft-reset option to go back to EOS home.
+
+### Game Guide Feature
+
+<img style="left" src="https://raw.githubusercontent.com/Sanrax/DSOneManual/main/Pictures/DSOne-Game-Guide.jpg" width="260px">
+
+The DSOne also has a feature to view a text file while playing a game, via the Game Guide option in the In-Game menu. By default, it is greyed out, since it requires a .txt file to be added with the same name as the rom. For example, if you want to add a game guide for Pokemon-Black-Version.nds, Create Pokemon-Black-Version.txt and place it in the same directory as the .nds file.
+
+This is less useful nowadays since phones are available to reference online information, but it's useful for small notes about a game. For example, in the game 9 Hours, 9 Persons, 9 Doors, you could put what door combinations you still need to go through to achieve the rest of the endings in the txt file for reference during the game.
