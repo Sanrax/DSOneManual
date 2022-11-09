@@ -69,4 +69,4 @@ Settings for the in-game menu button combo. The buttons that are checked in this
 
 <img style="left" src="https://raw.githubusercontent.com/Sanrax/DSOneManual/main/Pictures/DSOne-GBA.jpg" width="260px">
 
-Options for GBA Slot-2 carts, for DS Lite and original NDS systems.
+Options for GBA Slot-2 carts, when running on DS Lite and original NDS systems. Rumble option is for use with the Rumble Pak or SuperCard Mini SD Rumble Slot-2 flashcart to provide force-feedback.
