@@ -70,3 +70,27 @@ Settings for the in-game menu button combo. The buttons that are checked in this
 <img style="left" src="https://raw.githubusercontent.com/Sanrax/DSOneManual/main/Pictures/DSOne-GBA.jpg" width="260px">
 
 Options for GBA Slot-2 carts, when running on DS Lite and original NDS systems. Rumble option is for use with the Rumble Pak or SuperCard Mini SD Rumble Slot-2 flashcart to provide force-feedback.
+
+## EOS Options (Per-Game Settings)
+
+### Game Options Menu
+
+<img style="left" src="https://raw.githubusercontent.com/Sanrax/DSOneManual/main/Pictures/DSOne-Game-Options.jpg" width="260px">
+
+This menu can be accessed by highlighting a game with the dpad, and then hitting the Y button. It allows you to override the global options set in the EOS home menu on a per-game basis. For example, if your saver slot is currently set to slot #0 in the home menu but you want specifically GTA Chinatown Wars to load the Slot #1 save, you can set that here without affecting other games. If cheats are turned off globally, they can be turned on for specific games in this menu.
+
+The saver size can be modified for each game in this menu as well, but is generally unneccessary as the EOS kernel already knows the correct save size for practically all retail roms and will set this option automatically.
+
+Anti-piracy patching should be left on at all times as discussed earlier to avoid gameplay issues.
+
+### Cheats Sub-Menu
+
+<img style="left" src="https://raw.githubusercontent.com/Sanrax/DSOneManual/main/Pictures/DSOne-Cheats.jpg" width="260px">
+
+The cheats configuration is accessed by entering the game options menu discussed above, and then hitting Y again or using the stylus to click the cheats button. Note that this requires the **Further Setup (Cheats)** step to be completed, since no cheats will be available without a usrcheat database.
+
+Here you can select what cheats you want to be available once the game is loaded with cheats turned on. Simply put checkmarks next to each cheat you want enabled.
+
+### In-Game Menu
+
+<img style="left" src="https://raw.githubusercontent.com/Sanrax/DSOneManual/main/Pictures/DSOne-InGame-Menu.jpg" width="260px">
