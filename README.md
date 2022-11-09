@@ -4,7 +4,7 @@
 
 ##### [Download the DSOne-SDHC Evolution kernel](http://flashcard-archive.ds-homebrew.com/SuperCard/DSONE_SDHC_DSONEi/SuperCard_DSONE_SDHC_EOS_sp6_20121206.zip)
 
-1.  Confirm your card is formatted to fat32. If you're on Windows and using a 64GB or above MicroSD card, you can use [guiformat](http://ridgecrop.co.uk/index.htm?guiformat.htm) to do this.
+1.  Confirm your card is formatted to fat32. If you're on Windows and using a 64GB SD, you can use [guiformat](http://ridgecrop.co.uk/index.htm?guiformat.htm) to do this.
 2. Unzip the files in the kernel zip, and copy them to the root of the sd card.
 
 ## Further Setup - (Cheats)
@@ -94,3 +94,15 @@ Here you can select what cheats you want to be available once the game is loaded
 ### In-Game Menu
 
 <img style="left" src="https://raw.githubusercontent.com/Sanrax/DSOneManual/main/Pictures/DSOne-InGame-Menu.jpg" width="260px">
+
+The in-game menu is launched while playing a game using the button combination set in the home menu. It allows you to access the DSOne's save state feature, using the Save and Load buttons found in this menu. 
+
+There are 4 save state slots per game that can be saved and loaded from, and they persist after the console is shut down, just like normal save files. This is very useful if you need to shutdown your console when there are no save options available. In this case, you can just open the in game menu and create a save state instead of saving normally. Then load the save state when you want to resume your game.
+
+The slow motion feature does exactly what it says: it slows down the game you are playing. This can make a fast paced game easier if it's too hard for you.
+
+LCD brightness, just like the home menu option, changes the screen brightness on NDS/DSL consoles.
+
+The in-game option also allows you to toggle on/off your cheats while playing the game. You do not need to exit to the EOS home menu to toggle this option, but will need to if you want to change what cheats are enabled.
+
+The last option is of course the soft-reset option to go back to EOS home.
