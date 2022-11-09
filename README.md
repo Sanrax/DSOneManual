@@ -64,3 +64,9 @@ Changes the menu theme. If you found a theme you want to add, you can put it on 
 <img style="left" src="https://raw.githubusercontent.com/Sanrax/DSOneManual/main/Pictures/DSOne-Hotkeys.jpg" width="260px">
 
 Settings for the in-game menu button combo. The buttons that are checked in this menu all need to be pressed simultaneously while running a game to bring up the menu. You can configure what button combo you'd like to use by toggling the checkmarks next to each button. Hit A to save, B to cancel changes.
+
+### GBA Extend
+
+<img style="left" src="https://raw.githubusercontent.com/Sanrax/DSOneManual/main/Pictures/DSOne-GBA.jpg" width="260px">
+
+Options for GBA Slot-2 carts, for DS Lite and original NDS systems.
