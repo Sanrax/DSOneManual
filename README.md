@@ -4,7 +4,7 @@
 
 ##### [Download the DSOne-SDHC Evolution kernel](http://flashcard-archive.ds-homebrew.com/SuperCard/DSONE_SDHC_DSONEi/SuperCard_DSONE_SDHC_EOS_sp6_20121206.zip)
 
-1.  Confirm your card is formatted to fat32. If you're on Windows and using a 64GB SD, you can use [guiformat](http://ridgecrop.co.uk/index.htm?guiformat.htm) to do this.
+1.  Confirm your card is formatted to fat32. If you're on Windows and using a 64GB or above SD, you can use [guiformat](http://ridgecrop.co.uk/index.htm?guiformat.htm) to do this.
 2. Unzip the files in the kernel zip, and copy them to the root of the sd card.
 
 ## Further Setup - (Verifying Functionality)
