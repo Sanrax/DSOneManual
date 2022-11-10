@@ -7,6 +7,18 @@
 1.  Confirm your card is formatted to fat32. If you're on Windows and using a 64GB SD, you can use [guiformat](http://ridgecrop.co.uk/index.htm?guiformat.htm) to do this.
 2. Unzip the files in the kernel zip, and copy them to the root of the sd card.
 
+## Further Setup - (Verifying Functionality)
+
+The DSOne SDHC carts sold today have a fairly high dead-on-arrival rate. In most cases, the issue is a bad PSRAM chip on the cart. Before continuing with setting up your cart, you should verify that yours is working correctly.
+
+To verify that the PSRAM is working, start your console and boot the cart while holding L+R+Up. This will boot you to the self-test mode. Hit A twice to cycle to the PSRAM test, and let it run. You should end up with a PSRAM ok message.
+
+If the PSRAM test fails, you have a bad cart. Contact your seller and request a refund/return.
+
+On a broken DSOne, you can't run EvolutionOS due to it relying on the PSRAM, but you can run an alternate kernel called YSMenu to play games on a cart with bad PSRAM.
+
+Here is a link to the download page: [RGF's YSMenu Fork 7.06](https://gbatemp.net/download/retrogamefan-multi-cart-update.35737/)
+
 ## Further Setup - (Cheats)
 
 The Evolution kernel has support for cheats, but doesn't come with any cheats included by default. They needed to be added manually in the form of a usrcheat.dat file. If you don't care about cheats you can skip this part of setup.
