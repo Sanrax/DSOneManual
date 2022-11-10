@@ -129,7 +129,7 @@ This is less useful nowadays since phones are available to reference online info
 
 ## Extras
 
-#####[SuperCard DSOne-SDHC Label](https://raw.githubusercontent.com/Sanrax/DSOneManual/main/Pictures/DSOne-Label.png)
+##### [SuperCard DSOne-SDHC Label](https://raw.githubusercontent.com/Sanrax/DSOneManual/main/Pictures/DSOne-Label.png)
 
 All DSOne carts sold today come without any label on the front, with the big chip exposed. Functionally, it doesn't make a differnce, but it doesn't look very good. A high-resolution label is provided for download above if you'd like to print your own label for the cart or order one from a seller that makes them.
 
