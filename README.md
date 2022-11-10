@@ -126,3 +126,11 @@ The last option is of course the soft-reset option to go back to EOS home.
 The DSOne also has a feature to view a text file while playing a game, via the Game Guide option in the In-Game menu. By default, it is greyed out, since it requires a .txt file to be added with the same name as the rom. For example, if you want to add a game guide for Pokemon-Black-Version.nds, Create Pokemon-Black-Version.txt and place it in the same directory as the .nds file.
 
 This is less useful nowadays since phones are available to reference online information, but it's useful for small notes about a game. For example, in the game 9 Hours, 9 Persons, 9 Doors, you could put what door combinations you still need to go through to achieve the rest of the endings in the txt file for reference during the game.
+
+## Extras
+
+#####[SuperCard DSOne-SDHC Label](https://raw.githubusercontent.com/Sanrax/DSOneManual/main/Pictures/DSOne-Label.png)
+
+All DSOne carts sold today come without any label on the front, with the big chip exposed. Functionally, it doesn't make a differnce, but it doesn't look very good. A high-resolution label is provided for download above if you'd like to print your own label for the cart or order one from a seller that makes them.
+
+Please be aware that adding a label can be problematic due to the flawed design of the shell - it doesn't give enough clearance for a smaller chip hidden behind the white plastic in the front, which causes the front of the cart to bulge out. While this issue usually doesn't cause issues with fitment in the cartridge slot, adding a sticker on top can exaggerate this issue to the point that it becomes hard to insert the cart into your DS.
