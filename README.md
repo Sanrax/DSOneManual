@@ -131,6 +131,6 @@ This is less useful nowadays since phones are available to reference online info
 
 ##### [SuperCard DSOne-SDHC Label](https://raw.githubusercontent.com/Sanrax/DSOneManual/main/Pictures/DSOne-Label.png)
 
-All DSOne carts sold today come without any label on the front, with the big chip exposed. Functionally, it doesn't make a differnce, but it doesn't look very good. A high-resolution label is provided for download above if you'd like to print your own label for the cart or order one from a seller that makes them.
+All DSOne carts sold today come without any label on the front, with the big chip exposed. Functionally, it doesn't make a difference, but it doesn't look very good. A high-resolution label is provided for download above if you'd like to print your own label for the cart or order one from a seller that makes them.
 
 Please be aware that adding a label can be problematic due to the flawed design of the shell - it doesn't give enough clearance for a smaller chip hidden behind the white plastic in the front, which causes the front of the cart to bulge out. While this issue usually doesn't cause issues with fitment in the cartridge slot, adding a sticker on top can exaggerate this issue to the point that it becomes hard to insert the cart into your DS.
