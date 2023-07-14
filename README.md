@@ -24,9 +24,9 @@ Here is a link to the download page: [RGF's YSMenu Fork 7.06](https://gbatemp.ne
 
 The Evolution kernel has support for cheats, but doesn't come with any cheats included by default. They needed to be added manually in the form of a usrcheat.dat file. If you don't care about cheats you can skip this part of setup.
 
-1. One of the most up-to-date cheat databases can be [found here.](https://bitbucket.org/DeadSkullzJr/nds-i-cheat-databases/src/master/Cheat%20Databases/) Download the usrcheat.dat file.
+1. One of the most up-to-date cheat databases can be [found here.](https://github.com/DeadSkullzJr/NDS-i-Cheat-Databases/releases/latest) Download the `usrcheat.7z` file. Extract it with 7-Zip or any other .7z compatible archive program. Inside will be the `usrcheat.dat` file you need.
 
-2. After you have downloaded the usrcheat file, copy it to the `_dsone` directory on your DSOne's SD card.
+2. After you have downloaded the `usrcheat.dat` file, copy it to the `_dsone` directory on your DSOne's SD card.
 
 ## EOS Options (Home Menu)
 
