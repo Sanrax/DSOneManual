@@ -4,8 +4,8 @@
 
 ##### [Download the DSOne-SDHC Evolution kernel](http://flashcard-archive.ds-homebrew.com/SuperCard/DSONE_SDHC_DSONEi/SuperCard_DSONE_SDHC_EOS_sp6_20121206.zip)
 
-1. Confirm your card is formatted to fat32. If you're on Windows and using a 64GB or above MicroSD, you can use [this guide](https://dsi.cfw.guide/sd-card-setup.html) to format your card correctly.
-2. Unzip the files in the kernel zip, and copy them to the root of the sd card. (You should end up with an `scfw.sc` file and `_dsone` folder on your SD root)
+1. All DS flashcarts require their SD cards to be formatted with the FAT32 filesystem. Format the sd card you are using by following [this guide.](https://wiki.hacks.guide/wiki/Formatting_an_SD_card)
+2. Unzip the files in the kernel zip you downloaded above, and copy them to the root of the sd card. (You should end up with an `scfw.sc` file and `_dsone` folder on your SD root)
 3. For organizational purposes, you can create a `Games` folder on the root of your SD to use for storing .nds roms. Alternatively, you can also simply place roms in the SD card root.
 
 ## Further Setup - (Verifying Functionality)
