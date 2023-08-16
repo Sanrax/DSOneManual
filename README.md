@@ -146,7 +146,7 @@ This is less useful nowadays since phones are available to reference online info
 
 - `TTMenu.dat`
 
-3. Place any .nds ROM you'd like to play into the `Games` folder.
+5. Place any .nds ROM you'd like to play into the `Games` folder.
 
 ## Extras
 
