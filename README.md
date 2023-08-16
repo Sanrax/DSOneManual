@@ -18,7 +18,7 @@ If the PSRAM test fails, you have a bad cart. Contact your seller and request a 
 
 On a broken DSOne, you can't run EvolutionOS due to it relying on the PSRAM, but you can run an alternate kernel called YSMenu to play games on a cart with bad PSRAM.
 
-Here is a link to the download page: [RGF's YSMenu Fork 7.06](https://gbatemp.net/download/retrogamefan-multi-cart-update.35737/)
+See this section of the guide for more info: [YSMenu Setup](#ysmenu-setup-for-bad-psram-dsone-carts)
 
 ## Further Setup - (Cheats)
 
@@ -127,6 +127,26 @@ The last option is of course the soft-reset option to go back to EOS home.
 The DSOne also has a feature to view a text file while playing a game, via the Game Guide option in the In-Game menu. By default, it is greyed out, since it requires a .txt file to be added with the same name as the rom. For example, if you want to add a game guide for Pokemon-Black-Version.nds, Create Pokemon-Black-Version.txt and place it in the same directory as the .nds file.
 
 This is less useful nowadays since phones are available to reference online information, but it's useful for small notes about a game. For example, in the game 9 Hours, 9 Persons, 9 Doors, you could put what door combinations you still need to go through to achieve the rest of the endings in the txt file for reference during the game.
+
+## YSMenu Setup for Bad PSRAM DSOne Carts
+
+1. Format the SD card you are using by following [this guide](https://wiki.hacks.guide/wiki/Formatting_an_SD_card).
+
+2. Download YSMenu from [GBATemp](https://gbatemp.net/download/retrogamefan-multi-cart-update.35737/download).
+
+3. Extract the YSMenu .7z you downloaded using 7-Zip, then go into the `DSONEi SDHC YSMenu` folder.
+
+4. From this folder, copy the following files/folders to your SD card root:
+
+- `Games` folder
+
+- `TTMenu` folder
+
+- `SCFW.SC`
+
+- `TTMenu.dat`
+
+3. Place any .nds ROM you'd like to play into the `Games` folder.
 
 ## Extras
 
