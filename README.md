@@ -12,7 +12,7 @@
 
 The DSOne SDHC carts sold today have a fairly high dead-on-arrival rate. In most cases, the issue is a bad PSRAM chip on the cart. Before continuing with setting up your cart, you should verify that yours is working correctly.
 
-To verify that the PSRAM is working, start your console and boot the cart while holding L+R. This will boot you into the cart's self-test mode. Hit A twice to cycle to the PSRAM test, and let it run. You should end up with a PSRAM ok message.
+To verify that the PSRAM is working, start your console and boot the cart while holding L+R+Up. This will boot you into the cart's self-test mode. Hit A twice to cycle to the PSRAM test, and let it run. You should end up with a PSRAM ok message.
 
 If the PSRAM test fails, you have a bad cart. Contact your seller and request a refund/return.
 
